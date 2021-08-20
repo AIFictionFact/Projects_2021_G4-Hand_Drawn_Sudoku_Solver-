@@ -8,9 +8,12 @@ Our goal was to use the provided 10001 sudoku images to train and validate a Neu
 to input into a sudoku solving algorithm.
 
 Resources used:
-\n-- Pre-made sudoku solver, downloaded in py/ipynb file using ==> !pip3 install py-sudoku
-\n-- Testing and training data downloaded from this page ==> https://www.aicrowd.com/challenges/ai-for-good-ai-blitz-3/problems/sudoku/dataset_files
-\n-- MNIST dataset to train NN using strategies from lab 2 to recognize hand-drawn digits
+
+-- Pre-made sudoku solver, downloaded in py/ipynb file using ==> !pip3 install py-sudoku
+
+-- Testing and training data downloaded from this page ==> https://www.aicrowd.com/challenges/ai-for-good-ai-blitz-3/problems/sudoku/dataset_files
+
+-- MNIST dataset to train NN using strategies from lab 2 to recognize hand-drawn digits
      
 HOW TO RUN THE PROJECT:
 1   Go to these shared google drive links and create shortcuts in your drive ("/content/drive/My Drive/<file>") to access these folders of the test/train sample datasets 
