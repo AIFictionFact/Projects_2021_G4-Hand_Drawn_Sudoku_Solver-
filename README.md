@@ -14,6 +14,10 @@ Resources used:
 -- Testing and training data downloaded from this page ==> https://www.aicrowd.com/challenges/ai-for-good-ai-blitz-3/problems/sudoku/dataset_files
 
 -- MNIST dataset to train NN using strategies from lab 2 to recognize hand-drawn digits
+
+-- Hough Lines Transformation for straightening image pseudocode and general explanation: https://sbme-tutorials.github.io/2019/cv/notes/4_week4.html
+
+-- extract_digit(cell) function is NOT USED, however it comes from https://github.com/jayaramanjay97/AI_Crowd_Blitz_-3/tree/master/SUDOKU -- did very well on this challenge
      
 HOW TO RUN THE PROJECT:
 
@@ -34,3 +38,5 @@ HOW TO RUN THE PROJECT:
     and add data to personal google drive folders sample_test, sample_train and demo_test
      
 2   download \*.ipynb file from this github repo and run, training the model on MNIST dataset will take ~10 minutes
+     
+     NOTE: after installing the libraries at the top, it is possible you made need to restart the runtime 
