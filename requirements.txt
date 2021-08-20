@@ -1,0 +1,26 @@
+INSTALLED LIBRARIES ("pip3 install __"):
+  --np_utils
+  --'h5py==2.10.0'
+  --py-sudoku v1.0.1
+USED LIBRARIES ("import __"):
+  --uuid v3.9
+  --shutil v3.9
+  --numpy v1.19.5
+  --cv2 v4.1.2
+  --math
+  --pandas v1.1.5
+  --Image from PIL v7.1.2
+  --torch v1.9.0+cu102
+  --time
+  --torchvision v0.10.0
+  --ndimage v0.10.3
+  --torch v1.9.0
+  --imutils v0.5.4
+  --tensorflow v1.15.2
+  --Keras version: 2.2.4-tf
+  **Using TensorFlow backend**
+  --seaborn v0.11.1
+  --datetime 
+  --platform
+  --glob
+  --PIL v8.3.1
