@@ -21,7 +21,7 @@ Resources used:
      
 HOW TO RUN THE PROJECT:
 
-1   Go to these shared google drive links and create shortcuts in your drive ("/content/drive/My Drive/<file>") to access these folders of the test/train sample datasets and model 
+1   Go to these shared google drive links and create shortcuts in your drive ("/content/drive/My Drive/<folder>") to access these folders of the test/train sample datasets and model 
      
             sample_test: https://drive.google.com/drive/folders/1WqU0jS_kkHLUy1CDgp0EpLcOqaykfspS?usp=sharing
      
@@ -29,14 +29,18 @@ HOW TO RUN THE PROJECT:
      
             demo_test: https://drive.google.com/drive/folders/1oteMYFSnwMYx2fMlnOvvX2WuyBqbcuF0?usp=sharing 
               
-            model: https://drive.google.com/drive/folders/1Sm4kiMcACcs_WPjLJUzh_RauAUn9ltm-?usp=sharing
+            model: https://drive.google.com/drive/folders/1Sm4kiMcACcs_WPjLJUzh_RauAUn9ltm-?usp=sharing, or train new model from TrainSudoku.ipynb and save it how you like
      
     OR
      
     download testing and training data from the page ==> https://www.aicrowd.com/challenges/ai-for-good-ai-blitz-3/problems/sudoku/dataset_files
      
     and add data to personal google drive folders sample_test, sample_train and demo_test
+      
      
-2   download \*.ipynb file from this github repo and run, training the model on MNIST dataset will take ~10 minutes
      
-     NOTE: after installing the libraries at the top, it is possible you made need to restart the runtime 
+2   download \*.ipynb file from this github repo and run, and training a new model on MNIST dataset will take ~10 minutes on TrainSudoku.ipynb (OPTIONAL if using the shared model above)
+     
+     NOTE: after installing the libraries at the top of both files, it is possible you made need to restart the runtime
+     
+     NOTE: if using TrainSudoku.ipynb to create a model, make sure to save in a folder called "model" at "/content/drive/My Drive/model", and change loaded file name in main ipynb file (from "working2.h5" to "name_of_your_choice"). 
