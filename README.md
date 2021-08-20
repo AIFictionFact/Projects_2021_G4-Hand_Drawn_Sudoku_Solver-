@@ -4,7 +4,8 @@ Group 4 -- Aiden Sullivan , Sam Avis, Jimmy Schaffer, Dolan Clahan, Spencer Webb
 Our group takes the AICrowd challenge as described here ==> https://www.aicrowd.com/challenges/ai-for-good-ai-blitz-3/problems/sudoku
 
 This project is about using computer vision as learned in lab 2 of this course to read and solve a generic hand-written sudoku puzzle.
-Our goal was to use the provided 10001 sudoku images to train and validate a Neural Network to recognize numbers as they come in the puzzles, and use the "read" puzzles to input into a sudoku solving algorithm.
+Our goal was to use the provided 10001 sudoku images to train and validate a Neural Network to recognize numbers as they come in the puzzles, and use the "read" puzzles 
+to input into a sudoku solving algorithm.
 
 Resources used:
 -- Pre-made sudoku solver, downloaded in py/ipynb file using ==> !pip3 install py-sudoku
