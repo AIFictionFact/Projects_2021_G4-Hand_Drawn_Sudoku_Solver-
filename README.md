@@ -17,13 +17,15 @@ Resources used:
      
 HOW TO RUN THE PROJECT:
 
-1   Go to these shared google drive links and create shortcuts in your drive ("/content/drive/My Drive/<file>") to access these folders of the test/train sample datasets 
+1   Go to these shared google drive links and create shortcuts in your drive ("/content/drive/My Drive/<file>") to access these folders of the test/train sample datasets and model 
      
             sample_test: https://drive.google.com/drive/folders/1WqU0jS_kkHLUy1CDgp0EpLcOqaykfspS?usp=sharing
      
             sample_train: https://drive.google.com/drive/folders/1kR32hRSEDyhMIWK3gsvmwGoyFv7DLOMq?usp=sharing
      
             demo_test: https://drive.google.com/drive/folders/1oteMYFSnwMYx2fMlnOvvX2WuyBqbcuF0?usp=sharing 
+              
+            model: https://drive.google.com/drive/folders/1Sm4kiMcACcs_WPjLJUzh_RauAUn9ltm-?usp=sharing
      
     OR
      
