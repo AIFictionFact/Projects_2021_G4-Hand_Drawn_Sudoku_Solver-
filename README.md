@@ -39,7 +39,7 @@ HOW TO RUN THE PROJECT:
       
      
      
-2   download \*.ipynb file from this github repo and run, and training a new model on MNIST dataset will take ~10 minutes on TrainSudoku.ipynb (OPTIONAL if using the shared model above)
+2   download SudokuSolver.ipynb file from this github repo and run, and training a new model on MNIST dataset will take ~10 minutes on TrainSudoku.ipynb (OPTIONAL if using the shared model above)
      
      NOTE: after installing the libraries at the top of both files, it is possible you made need to restart the runtime
      
